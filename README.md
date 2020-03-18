@@ -1,2 +1,2 @@
-# A_social_network_website
-this is a school project using by Github for Scum
+# A_job_portal_website
+this is a university project using by Github for Scum
