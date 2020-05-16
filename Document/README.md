@@ -42,7 +42,7 @@ The system includes 3 main actors:<br>
 **1.3. Class Diagram**
 ----------------------
 
-![Class Diagram](https://user-images.githubusercontent.com/62233688/82111274-5070fc00-976e-11ea-9977-610ebc555170.png) <br>
+![Class Diagram]() <br>
 
 **1.4. ERD**
 ------------
