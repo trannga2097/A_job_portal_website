@@ -31,3 +31,22 @@ The system includes 3 main actors:<br>
 + Super Admin Use Case: <br>
 
 ![Super Admin UC](https://user-images.githubusercontent.com/62233335/82110887-8365c080-976b-11ea-8587-5da6ba3631dc.png) <br>
+
+**1.1.4. Detail Specification Use Case**
+
++ [Here](https://drive.google.com/open?id=1qREaM8yzMo68YybA840LLt9sVoCDuCgI) <br>
+
+**1.2. Sequence Diagram**
+------------------------
+
+**1.3. Class Diagram**
+----------------------
+
+**1.4. ERD**
+------------
+
+**1.5. Software Architecture**
+------------------------------
+
+
+
