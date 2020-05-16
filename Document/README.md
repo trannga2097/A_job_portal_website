@@ -42,11 +42,17 @@ The system includes 3 main actors:<br>
 **1.3. Class Diagram**
 ----------------------
 
+![Class Diagram](https://user-images.githubusercontent.com/62233688/82111274-5070fc00-976e-11ea-9977-610ebc555170.png) <br>
+
 **1.4. ERD**
 ------------
 
+![JobPortal - ERD](https://user-images.githubusercontent.com/62233688/82111269-49e28480-976e-11ea-85b0-a9c61acfd00b.png) <br>
+
 **1.5. Software Architecture**
 ------------------------------
+
+
 
 
 
