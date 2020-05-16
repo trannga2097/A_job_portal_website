@@ -15,7 +15,9 @@ Topic Introduction
 **Language:** PHP <br>
 
 **Other Document:**
-[link](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h)
+[Software Requirement Analysis](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h)
+[Sprint Planning]
+[Document about Software Development]
 
 
 
