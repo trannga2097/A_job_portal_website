@@ -49,7 +49,14 @@ The system includes 3 main actors:<br>
 
 ![JobPortal - ERD](https://user-images.githubusercontent.com/62233688/82111269-49e28480-976e-11ea-85b0-a9c61acfd00b.png) <br>
 
+**2. Strength and Weaknesses of System**
+---------------------------
 
+**2.1. Strength:**
+----------------
+
+**2.2. Weaknesses**
+-------------------
 
 
 
