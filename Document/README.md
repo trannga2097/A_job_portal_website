@@ -12,6 +12,9 @@ The system includes 3 main actors:<br>
 
 - Actor Super Admin: manage administration system, help to connect between Jobseeker and Company Admin
 
-- Actor Company Admin: manage posting jobs and handle applied jobs
+- Actor Company Admin: manage posting jobs and handle applied jobs <br>
+
+1.1.2. General Use Case:
+
 
 
