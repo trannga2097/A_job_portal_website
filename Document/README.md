@@ -34,7 +34,7 @@ The system includes 3 main actors:<br>
 
 **1.1.4. Detail Specification Use Case**
 
-+ [Here](https://drive.google.com/open?id=1qREaM8yzMo68YybA840LLt9sVoCDuCgI) <br>
++ [Here](https://drive.google.com/open?id=13RhvHBXYS31O5EqdYCvuh_DXADfmnxUC) <br>
 
 **1.2. Sequence Diagram**
 ------------------------
