@@ -14,10 +14,13 @@ Topic Introduction
 
 **Language:** PHP <br>
 
-**Other Document:**
-[Software Requirement Analysis](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h) <br>
-[Sprint Planning](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h) <br>
-[Document about Software Development](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h) <br>
+**Other Document:** <br>
+
+- [Software Requirement Analysis](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h) <br>
+
+- [Sprint Planning](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h) <br>
+
+- [Document about Software Development](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h) <br>
 
 
 
