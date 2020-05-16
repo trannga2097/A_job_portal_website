@@ -20,7 +20,7 @@ Topic Introduction
 
 - [Sprint Planning](https://drive.google.com/open?id=1CnrkLUtX7v9nb6jLMIjq4HNYh_exFh0h) <br>
 
-- [Document about Software Development]() <br>
+- [Document about Software Development](https://github.com/trannga2097/A_job_portal_website/blob/master/Document/README.md) <br>
 
 
 
