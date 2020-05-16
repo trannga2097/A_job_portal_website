@@ -16,7 +16,7 @@ The system includes 3 main actors:<br>
 
 **1.1.2. General Use Case** <br>
 
-![General UC](![General UC](https://user-images.githubusercontent.com/62233688/82118669-f76f8b00-97a2-11ea-97e3-9037432814a0.png)) <br>
+![General UC](https://user-images.githubusercontent.com/62233688/82118669-f76f8b00-97a2-11ea-97e3-9037432814a0.png) <br>
 
 **1.1.3. Detail Use Case**
 
@@ -30,7 +30,7 @@ The system includes 3 main actors:<br>
 
 + Super Admin Use Case: <br>
 
-![Super Admin UC](![Super Admin UC](https://user-images.githubusercontent.com/62233688/82118666-f4749a80-97a2-11ea-9923-3f0e19da7ec0.png)) <br>
+![Super Admin UC](https://user-images.githubusercontent.com/62233688/82118666-f4749a80-97a2-11ea-9923-3f0e19da7ec0.png) <br>
 
 **1.1.4. Detail Specification Use Case**
 
