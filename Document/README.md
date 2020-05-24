@@ -52,7 +52,7 @@ The system includes 3 main actors:<br>
 
 **1.2.4. Admin Activity Diagram**<br>
 
-![ERD](https://user-images.githubusercontent.com/62233688/82752194-86555680-9de6-11ea-8509-79b1058be451.png)
+
 
 **1.3. Class Diagram**
 ----------------------
@@ -62,7 +62,7 @@ The system includes 3 main actors:<br>
 **1.4. ERD**
 ------------
 
-![JobPortal - ERD](https://user-images.githubusercontent.com/62233688/82111269-49e28480-976e-11ea-85b0-a9c61acfd00b.png) <br>
+![ERD](https://user-images.githubusercontent.com/62233688/82752194-86555680-9de6-11ea-8509-79b1058be451.png) <br>
 
 **1.5. UI Design**
 ------------
