@@ -16,21 +16,21 @@ The system includes 3 main actors:<br>
 
 **1.1.2. General Use Case** <br>
 
-![General UC](https://user-images.githubusercontent.com/62233688/82118669-f76f8b00-97a2-11ea-97e3-9037432814a0.png) <br>
+![General-UC](https://user-images.githubusercontent.com/62233688/82750997-691c8a00-9dde-11ea-806a-9a378a553aac.png) <br>
 
 **1.1.3. Detail Use Case**
 
 + Jobseeker Use Case: <br>
 
-![Jobseeker UC](https://user-images.githubusercontent.com/62233335/82110886-7f39a300-976b-11ea-9c57-ece9cba13173.png) <br>
+![Jobseeker-UC](https://user-images.githubusercontent.com/62233688/82750968-37a3be80-9dde-11ea-9477-b418eedc9805.png) <br>
 
-+ Company Admin Use Case: <br>
++ Employer Use Case: <br>
 
-![Company Admin UC](https://user-images.githubusercontent.com/62233335/82110884-7c3eb280-976b-11ea-8123-0bf4dab13114.png) <br>
+![Employer-UC](https://user-images.githubusercontent.com/62233688/82751008-78033c80-9dde-11ea-83c3-189bc66f813e.png) <br>
 
-+ Super Admin Use Case: <br>
++ Admin Use Case: <br>
 
-![Super Admin UC](https://user-images.githubusercontent.com/62233688/82118666-f4749a80-97a2-11ea-9923-3f0e19da7ec0.png) <br>
+![Admin-UC](https://user-images.githubusercontent.com/62233688/82750965-3377a100-9dde-11ea-9768-17c7e18f2480.png) <br>
 
 **1.1.4. Detail Specification Use Case**
 
