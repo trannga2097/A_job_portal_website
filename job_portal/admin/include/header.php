@@ -4,7 +4,7 @@
 
     session_start();
 
-    if ($_SESSION['admin_id']==true) {
+    if ($_SESSION['admin_email']==true) {
     
     }else{
 
@@ -42,6 +42,8 @@
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+
     <link href="css/dashboard.css" rel="stylesheet">
 
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
@@ -52,7 +54,7 @@
 
     <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0">
 
-      <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Company name</a>
+      <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#" style="font-size: 12px;"><?php echo $_SESSION['admin_email']; ?> </a>
 
       <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
 
