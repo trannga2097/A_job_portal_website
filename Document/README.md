@@ -8,11 +8,11 @@ Document related to Software Development
 
 The system includes 3 main actors:<br>
 
-- Actor Jobseeker:
+- Actor Jobseeker:search jobs and apply jobs that they want
 
-- Actor Super Admin: manage administration system, help to connect between Jobseeker and Company Admin
+- Actor Admin: manage administration system, help to connect between Jobseeker and Employer
 
-- Actor Company Admin: manage posting jobs and handle applied jobs <br>
+- Actor Employer Admin: manage posting jobs and handle applied jobs <br>
 
 **1.1.2. General Use Case** <br>
 
@@ -34,10 +34,19 @@ The system includes 3 main actors:<br>
 
 **1.1.4. Detail Specification Use Case**
 
-+ [Here](https://drive.google.com/open?id=18J8oV00thDZAmzTSaZnclK6QJD3SzVe1) <br>
++ [Here](https://drive.google.com/open?id=1WrNglEy2nd7glCF7GBpiqGOCJndXSNlr) <br>
 
-**1.2. Sequence Diagram**
+**1.2. Activity Diagram**
 ------------------------
+**1.2.1. Homepage Activity Diagram** <br>
+
+![General-UC](https://user-images.githubusercontent.com/62233688/82750997-691c8a00-9dde-11ea-806a-9a378a553aac.png) <br>
+
+**1.2.2. Employer Activity Diagram**<br>
+
+**1.2.3. Job Seeker Activity Diagram**<br>
+
+**1.2.4. Admin Activity Diagram**<br>
 
 **1.3. Class Diagram**
 ----------------------
@@ -50,14 +59,7 @@ The system includes 3 main actors:<br>
 
 ![JobPortal - ERD](https://user-images.githubusercontent.com/62233688/82111269-49e28480-976e-11ea-85b0-a9c61acfd00b.png) <br>
 
-**2. Strength and Weaknesses of System**
----------------------------
 
-**2.1. Strength:**
-----------------
-
-**2.2. Weaknesses**
--------------------
 
 
 
