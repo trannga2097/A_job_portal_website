@@ -16,9 +16,10 @@ Topic Introduction
 
 **Other Document:** <br>
 
-- [Software Requirement Analysis](https://drive.google.com/open?id=1cq8d72MXm54s3WL_UyFvJ6usD_wwDqxH) <br>
+- [Report about job portal website system](https://drive.google.com/open?id=1cq8d72MXm54s3WL_UyFvJ6usD_wwDqxH) <br>
+- [Detail Use Case](https://drive.google.com/open?id=1cq8d72MXm54s3WL_UyFvJ6usD_wwDqxH) <br>
+- [Activity Diagram](https://drive.google.com/open?id=1cq8d72MXm54s3WL_UyFvJ6usD_wwDqxH) <br>
 
-- [Document about Software Development](https://github.com/trannga2097/A_job_portal_website/blob/master/Document/README.md) <br>
 
 
 
