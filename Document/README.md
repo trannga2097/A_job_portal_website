@@ -59,7 +59,17 @@ The system includes 3 main actors:<br>
 
 ![JobPortal - ERD](https://user-images.githubusercontent.com/62233688/82111269-49e28480-976e-11ea-85b0-a9c61acfd00b.png) <br>
 
+**1.5. UI Design**
+------------
+**1.5.1. Signup - Employer**<br>
 
+**1.5.2. Signup - Job Seeker**<br>
+
+**1.5.3. Login - Users**<br>
+
+**1.5.4. Post Jobs - Employer**<br>
+
+**1.5.5. Feedback**<br>
 
 
 
