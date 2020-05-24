@@ -69,7 +69,9 @@ The system includes 3 main actors:<br>
 
 **1.5.4. Post Jobs - Employer**<br>
 
-**1.5.5. Feedback**<br>
+**1.5.5. Homepage**<br>
+
+**1.5.6. Feedback**<br>
 
 
 
