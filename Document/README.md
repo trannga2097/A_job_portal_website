@@ -52,7 +52,7 @@ The system includes 3 main actors:<br>
 
 **1.2.4. Admin Activity Diagram**<br>
 
-
+![ERD](https://user-images.githubusercontent.com/62233688/82752194-86555680-9de6-11ea-8509-79b1058be451.png)
 
 **1.3. Class Diagram**
 ----------------------
