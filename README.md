@@ -16,9 +16,11 @@ Topic Introduction
 
 **Other Document:** <br>
 
-- [Report about job portal website system](https://drive.google.com/open?id=1cq8d72MXm54s3WL_UyFvJ6usD_wwDqxH) <br>
-- [Detail Use Case](https://drive.google.com/open?id=1cq8d72MXm54s3WL_UyFvJ6usD_wwDqxH) <br>
-- [Activity Diagram](https://drive.google.com/open?id=1cq8d72MXm54s3WL_UyFvJ6usD_wwDqxH) <br>
+- [Report about job portal website system](https://drive.google.com/open?id=1uR1fkqRLAu3Rf0mvuuxuzymd_bcMAQ5a) <br>
+- [Detail Use Case](https://drive.google.com/open?id=1WrNglEy2nd7glCF7GBpiqGOCJndXSNlr) <br>
+- [Activity Diagram](https://drive.google.com/open?id=1ou-SqaiulBprJllIGDguvcbWyIMibfZE) <br>
+- [ERD](https://drive.google.com/open?id=18SRvoUzFC9aocGNR-tkRkRSqSJlzhmgQ) <br>
+- [UI Design](https://drive.google.com/open?id=16eV_Q2J1HcB0Brjxe4c1rkMnVI3LkoFs)
 
 
 
