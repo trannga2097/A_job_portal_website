@@ -20,7 +20,8 @@ Topic Introduction
 - [Detail Use Case](https://drive.google.com/open?id=1WrNglEy2nd7glCF7GBpiqGOCJndXSNlr) <br>
 - [Activity Diagram](https://drive.google.com/open?id=1ou-SqaiulBprJllIGDguvcbWyIMibfZE) <br>
 - [ERD](https://drive.google.com/open?id=18SRvoUzFC9aocGNR-tkRkRSqSJlzhmgQ) <br>
-- [UI Design](https://drive.google.com/open?id=16eV_Q2J1HcB0Brjxe4c1rkMnVI3LkoFs)
+- [UI Design](https://drive.google.com/open?id=16eV_Q2J1HcB0Brjxe4c1rkMnVI3LkoFs) <br>
+- [Powerpoint](https://drive.google.com/open?id=1b_TdqfNURopqzJPy8nlSvb8vzltXnKp)
 
 
 
